@@ -1,11 +1,11 @@
 <?php
 /*
 Plugin Name: WP Faster
-Plugin URI: https://www.iopenv.com/
+Plugin URI: https://wpmore.cn/
 Description: WordPress性能优化插件，主要提升运行效率。
 Version: 1.0.0
-Author: iOpenV
-Author URI: https://www.iopenv.com/
+Author: wpmore
+Author URI: https://wpmore.cn/
 Text Domain: WPFaster
 Domain Path: /lang
 */
