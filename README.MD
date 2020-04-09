@@ -1,10 +1,12 @@
 # WP Faster
-Contributors: 更好的WordPress主题
-Donate link: https://wpmore.cn/
-Requires at least: 5.0
-Tested up to: 5.4
-Requires PHP: 5.6
-License: GPL
+* Contributors: 更好的WordPress主题
+* Donate link: https://wpmore.cn/
+* Requires at least: 5.0
+* Tested up to: 5.4
+* Requires PHP: 5.6
+* Stable tag: 1.2
+* License: GPLv2 or later
+* License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 # Description
 
