@@ -3,8 +3,8 @@
 Plugin Name: WP Faster
 Plugin URI: https://wpmore.cn/
 Description: WordPress性能优化插件，主要提升运行效率。
-Version: 1.0.0
-Author: wpmore
+Version: 1.0.1
+Author: 更好的WordPress主题
 Author URI: https://wpmore.cn/
 Text Domain: WPFaster
 Domain Path: /lang
